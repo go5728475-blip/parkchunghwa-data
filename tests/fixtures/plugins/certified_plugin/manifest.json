@@ -1,0 +1,9 @@
+{
+  "name": "certified",
+  "version": "1.0.0",
+  "author": "MASTER ENGINE",
+  "description": "Certified fixture plugin",
+  "capabilities": ["certified.analysis"],
+  "module_class": "Module",
+  "sdk_version": "1.0.0"
+}

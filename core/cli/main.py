@@ -773,12 +773,9 @@ def load_module(
         from core.plugins.certification.gate import CertificationGate
         from core.plugins.certification.load_gate import (
             PluginCertificationError,
-            certify_plugin_before_load,
         )
-        from core.plugins.certification.loading import (
-            CertificationLoadError,
-            load_plugin_for_certification,
-        )
+        from core.plugins.certification.loading import CertificationLoadError
+        from core.runtime.load_pipeline import RuntimeLoadError, enforce_runtime_before_load
 
         registry = _resolve_certified_registry(
             bootstrap,
@@ -786,23 +783,25 @@ def load_module(
             registry_path=registry_path,
         )
         resolved_registry_path = _resolve_registry_path(registry_path)
+        gate = certification_gate or CertificationGate(registry=registry)
 
         try:
-            plugin, certification_loader = load_plugin_for_certification(path)
-            gate = certification_gate or CertificationGate(registry=registry)
-            certification_record = certify_plugin_before_load(
-                plugin,
-                gate,
-                require_registered=require_registered,
-                registry=registry if require_registered else None,
-                container=bootstrap.container(),
+            runtime_decision, certification_record, plugin, certification_loader = (
+                enforce_runtime_before_load(
+                    path,
+                    certification_gate=gate,
+                    certified_only=True,
+                    certified_registry=registry,
+                    require_registered=require_registered,
+                    container=bootstrap.container(),
+                )
             )
-        except (CertificationLoadError, PluginCertificationError) as exc:
+        except (CertificationLoadError, PluginCertificationError, RuntimeLoadError) as exc:
             print("[MASTER ENGINE] LoadModule failed")
             print(f"  message: {exc}")
             return 1
         finally:
-            if "plugin" in locals():
+            if "certification_loader" in locals() and certification_loader is not None:
                 certification_loader.unload(plugin.name())
 
     try:
@@ -823,6 +822,10 @@ def load_module(
         )
         print(f"  Registered Required: {require_registered}")
         print(f"  Registry Path:       {resolved_registry_path}")
+    if certified_only and "runtime_decision" in locals() and runtime_decision is not None:
+        print(f"  Runtime Status:        {runtime_decision.decision.status.value}")
+        if runtime_decision.warnings:
+            print(f"  Runtime Warnings:      {', '.join(runtime_decision.warnings)}")
     return 0
 
 

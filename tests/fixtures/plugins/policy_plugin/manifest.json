@@ -1,0 +1,12 @@
+{
+  "name": "policy",
+  "version": "1.0.0",
+  "author": "MASTER ENGINE",
+  "description": "Plugin with manifest certification policy",
+  "capabilities": ["policy.analysis"],
+  "module_class": "Module",
+  "sdk_version": "1.0.0",
+  "certification": {
+    "policy": "runtime_policy.json"
+  }
+}

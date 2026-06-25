@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "id": "runtime-default",
+  "name": "Runtime Default Certification Policy",
+  "rules": [
+    {
+      "id": "require-manifest",
+      "severity": "fail",
+      "actions": [
+        "block_load"
+      ],
+      "field": "manifest",
+      "required": true
+    },
+    {
+      "id": "warn-provider",
+      "severity": "warn",
+      "actions": [
+        "warn"
+      ],
+      "field": "source",
+      "forbidden": "openai"
+    }
+  ]
+}

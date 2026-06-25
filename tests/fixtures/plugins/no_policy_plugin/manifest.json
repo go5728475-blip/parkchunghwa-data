@@ -1,0 +1,9 @@
+{
+  "name": "nopolicy",
+  "version": "1.0.0",
+  "author": "MASTER ENGINE",
+  "description": "Plugin without manifest certification policy",
+  "capabilities": ["nopolicy.analysis"],
+  "module_class": "Module",
+  "sdk_version": "1.0.0"
+}

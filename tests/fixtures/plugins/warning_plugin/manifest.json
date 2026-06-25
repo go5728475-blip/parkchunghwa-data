@@ -1,0 +1,9 @@
+{
+  "name": "warning",
+  "version": "1.0.0",
+  "author": "MASTER ENGINE",
+  "description": "Warning fixture plugin",
+  "capabilities": ["warning.analysis"],
+  "module_class": "Module",
+  "sdk_version": "1.0.0"
+}

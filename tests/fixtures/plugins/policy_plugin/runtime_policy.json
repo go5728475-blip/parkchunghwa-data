@@ -1,0 +1,21 @@
+{
+  "version": "1.0",
+  "id": "fixture-runtime-policy",
+  "name": "Fixture Runtime Policy",
+  "rules": [
+    {
+      "id": "require-manifest",
+      "severity": "fail",
+      "actions": ["block_load"],
+      "field": "manifest",
+      "required": true
+    },
+    {
+      "id": "warn-provider",
+      "severity": "warn",
+      "actions": ["warn"],
+      "field": "source",
+      "forbidden": "openai"
+    }
+  ]
+}

@@ -874,6 +874,1973 @@
       "result": "success",
       "timestamp": "2026-06-25T17:25:56.372924+00:00",
       "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:14.656032+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:14.665036+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:15.106442+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:15.166121+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:15.223465+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:15.243470+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:15.264773+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:15.312051+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:15.367488+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:15.382237+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:15.417050+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "unregister",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:15.426639+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "unregister",
+      "plugin_id": "missing",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:15.453041+00:00",
+      "version": "0.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:15.482462+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:15.508814+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:15.539325+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:15.565104+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:15.599158+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:15.635277+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:15.676287+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "unregister",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:15.698759+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:15.730748+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:16.304054+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:16.339314+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:16.384746+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "broken",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:16.440757+00:00",
+      "version": "0.1.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:16.486674+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:16.513920+00:00",
+      "version": "0.1.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:16.564935+00:00",
+      "version": "0.1.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:19.189445+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "provider_bound",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:19.202643+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:19.235949+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:19.248932+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:19.308660+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:19.346981+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:19.370552+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:19.405249+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:19.445255+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:19.452988+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "career",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:19.468685+00:00",
+      "version": "0.1.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:19.541046+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "career",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:19.574019+00:00",
+      "version": "0.1.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:19.616494+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "broken",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:19.624329+00:00",
+      "version": "0.1.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "study",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:19.632191+00:00",
+      "version": "0.1.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "study",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:19.672684+00:00",
+      "version": "0.2.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "relationship",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:19.697107+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "study",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:19.808200+00:00",
+      "version": "0.3.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:19.838431+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "unregister",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:19.847239+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:20.114452+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "career",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:20.171968+00:00",
+      "version": "0.1.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:34:20.212983+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:50.419716+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:50.427555+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:50.865627+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:50.924508+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:50.980701+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:50.999229+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:51.020125+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:51.061687+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:51.138282+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:51.160629+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:51.216256+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "unregister",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:51.300592+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "unregister",
+      "plugin_id": "missing",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:51.537456+00:00",
+      "version": "0.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:51.624159+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:51.720260+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:51.790895+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:51.855050+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:51.921679+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:52.055076+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:52.095497+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "unregister",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:52.112220+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:52.200490+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:52.626090+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:52.661451+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:52.697582+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "broken",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:52.749297+00:00",
+      "version": "0.1.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:52.785846+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:52.813518+00:00",
+      "version": "0.1.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:52.855888+00:00",
+      "version": "0.1.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:55.667122+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "provider_bound",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:55.678904+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:55.693363+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:55.721494+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:55.749940+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:55.775202+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:55.783619+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:55.799886+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:55.844471+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:55.853990+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "career",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:55.885702+00:00",
+      "version": "0.1.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:55.892676+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "career",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:55.898790+00:00",
+      "version": "0.1.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:55.908287+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "broken",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:55.925445+00:00",
+      "version": "0.1.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "study",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:55.941113+00:00",
+      "version": "0.1.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "study",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:55.948551+00:00",
+      "version": "0.2.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "relationship",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:55.963173+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "study",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:56.076332+00:00",
+      "version": "0.3.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:56.114337+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "unregister",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:56.122681+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:56.401557+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "career",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:56.460528+00:00",
+      "version": "0.1.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:37:56.495541+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:15.462799+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:15.473679+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:16.055782+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:16.200724+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:16.259963+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:16.339552+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:16.375372+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:16.411370+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:16.458016+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:16.469876+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:16.505067+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "unregister",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:16.516912+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "unregister",
+      "plugin_id": "missing",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:16.535790+00:00",
+      "version": "0.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:16.557355+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:16.580165+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:16.612149+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:16.653190+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:16.690488+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:16.730558+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:16.767412+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "unregister",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:16.781880+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:16.810024+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:17.145019+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:17.170230+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:17.195636+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "broken",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:17.242568+00:00",
+      "version": "0.1.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:17.279643+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:17.303157+00:00",
+      "version": "0.1.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:17.340464+00:00",
+      "version": "0.1.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:19.713535+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "provider_bound",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:19.724349+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:19.746665+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:19.761199+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:19.813370+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:19.844225+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:19.858654+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:19.878667+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:19.918120+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:19.938438+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "career",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:19.961730+00:00",
+      "version": "0.1.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:19.987625+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "career",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:20.002686+00:00",
+      "version": "0.1.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:20.011767+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "broken",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:20.019269+00:00",
+      "version": "0.1.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "study",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:20.024609+00:00",
+      "version": "0.1.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "study",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:20.027834+00:00",
+      "version": "0.2.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "relationship",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:20.034425+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "study",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:20.189114+00:00",
+      "version": "0.3.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:20.219446+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "unregister",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:20.231214+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:20.519753+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "career",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:20.560959+00:00",
+      "version": "0.1.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:38:20.584848+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:06.034527+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:06.040416+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "certified",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:06.177443+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:06.421468+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:06.470112+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:06.505816+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:06.524663+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:06.542304+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:06.573367+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:06.617933+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:06.630465+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:06.663829+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "unregister",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:06.672401+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "unregister",
+      "plugin_id": "missing",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:06.687420+00:00",
+      "version": "0.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:06.714028+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:06.752186+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:06.789093+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:06.820330+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:06.864384+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:06.904471+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:06.948031+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "unregister",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:06.958953+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:06.986339+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:07.379484+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:07.409565+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:07.434994+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "broken",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:07.470187+00:00",
+      "version": "0.1.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:07.497163+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:07.523108+00:00",
+      "version": "0.1.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:07.558637+00:00",
+      "version": "0.1.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "certified",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:08.470142+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "warning",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:08.508599+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "certified",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:08.605526+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "certified",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:08.662015+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "nopolicy",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:08.716064+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:10.350756+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "provider_bound",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:10.361822+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:10.375198+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:10.389522+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:10.422498+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:10.444635+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:10.453734+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:10.467342+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:10.511136+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:10.521957+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "career",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:10.537899+00:00",
+      "version": "0.1.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:10.549078+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "career",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:10.555974+00:00",
+      "version": "0.1.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:10.565858+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "broken",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:10.575310+00:00",
+      "version": "0.1.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "study",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:10.586309+00:00",
+      "version": "0.1.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "study",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:10.594910+00:00",
+      "version": "0.2.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "relationship",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:10.613352+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "study",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:10.708204+00:00",
+      "version": "0.3.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:10.728779+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "unregister",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:10.736414+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:10.976862+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "career",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:11.032974+00:00",
+      "version": "0.1.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:11.061840+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:11.481255+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:11.493789+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:27.777705+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:27.786844+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "certified",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:27.931390+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:28.368012+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:28.443609+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:28.508272+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:28.537202+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:28.554849+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:28.584273+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:28.633861+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:28.646063+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:28.678929+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "unregister",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:28.688187+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "unregister",
+      "plugin_id": "missing",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:28.704950+00:00",
+      "version": "0.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:28.730592+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:28.763565+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:28.797822+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:28.820652+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:28.849684+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:28.879798+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:28.911964+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "unregister",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:28.923596+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:28.950439+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:29.250253+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:29.271579+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:29.303385+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "broken",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:29.343931+00:00",
+      "version": "0.1.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:29.377529+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:29.402803+00:00",
+      "version": "0.1.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:29.438709+00:00",
+      "version": "0.1.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "certified",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:30.295752+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "warning",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:30.321967+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "certified",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:30.399941+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "certified",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:30.449219+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "nopolicy",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:30.474847+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:31.830992+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "provider_bound",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:31.848868+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:31.863605+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:31.882934+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:31.927453+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:31.949553+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:31.956910+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:31.970021+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:32.014098+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:32.024487+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "career",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:32.044331+00:00",
+      "version": "0.1.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:32.054418+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "career",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:32.062828+00:00",
+      "version": "0.1.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:32.073475+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "broken",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:32.084775+00:00",
+      "version": "0.1.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "study",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:32.102932+00:00",
+      "version": "0.1.0"
+    },
+    {
+      "action": "update",
+      "plugin_id": "study",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:32.106707+00:00",
+      "version": "0.2.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "relationship",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:32.112793+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "study",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:32.213855+00:00",
+      "version": "0.3.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:32.241379+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "unregister",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:32.249433+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:32.496039+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "career",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:32.556530+00:00",
+      "version": "0.1.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:32.584473+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "health",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:33.055241+00:00",
+      "version": "1.0.0"
+    },
+    {
+      "action": "register",
+      "plugin_id": "wealth",
+      "result": "success",
+      "timestamp": "2026-06-25T23:43:33.071430+00:00",
+      "version": "1.0.0"
     }
   ]
 }
