@@ -1,0 +1,19 @@
+{
+  "plugins": {
+    "health": {
+      "certified": true,
+      "certified_at": "2026-06-25T17:25:53.247996+00:00",
+      "checks": [
+        "manifest_required",
+        "lifecycle",
+        "capability_declaration",
+        "sdk_version",
+        "provider_independence"
+      ],
+      "compatibility_level": "COMPATIBLE",
+      "plugin_id": "health",
+      "version": "1.0.0",
+      "warnings": []
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "health",
+  "version": "1.0.0",
+  "author": "MASTER ENGINE",
+  "description": "Health analysis engine package",
+  "capabilities": ["health.analysis"],
+  "module_class": "Module",
+  "sdk_version": "1.0.0"
+}

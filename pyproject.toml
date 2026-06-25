@@ -1,0 +1,13 @@
+[project]
+name = "master-engine"
+version = "0.1.0"
+description = "MASTER ENGINE - Core Foundation (Sprint-001)"
+requires-python = ">=3.12"
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

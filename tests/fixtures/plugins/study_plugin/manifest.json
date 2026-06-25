@@ -1,0 +1,9 @@
+{
+  "name": "study",
+  "version": "0.2.0",
+  "author": "MASTER ENGINE",
+  "description": "Study analysis engine package",
+  "capabilities": ["study.analysis"],
+  "module_class": "Module",
+  "sdk_version": "1.0.0"
+}
